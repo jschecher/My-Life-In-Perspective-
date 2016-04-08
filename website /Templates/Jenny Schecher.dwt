@@ -1,12 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Jenny Schecher.dwt" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<!-- InstanceBeginEditable name="doctitle" -->
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Jenny Schecher</title>
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
@@ -14,7 +14,10 @@
   <li>
     <table width="1000">
       <tr>
-        <td height="42"><!-- InstanceBeginEditable name="content " -->This is placeholder text<!-- InstanceEndEditable --></td>
+        <td height="42"><!-- TemplateBeginEditable name="content " -->
+          <p>This is a placeholder text</p>
+          <p>&nbsp;</p>
+        <!-- TemplateEndEditable --></td>
       </tr>
     </table>
   <a href="../index.html">My Personal Brand</a></li>
@@ -24,4 +27,4 @@
   <li><a href="../who-i-am/index.html">Biography</a></li>
 </ul>
 </body>
-<!-- InstanceEnd --></html>
+</html>
